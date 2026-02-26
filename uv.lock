@@ -4,10 +4,11 @@ requires-python = ">=3.11"
 
 [[package]]
 name = "peppylib"
-version = "0.1.0"
+version = "0.1.2"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/46/b9/8a1b6cc60c5bedd19a1783703b23d3bdd37d87bb885e409ca46b5c151436/peppylib-0.1.0-cp311-abi3-macosx_11_0_arm64.whl", hash = "sha256:1e4e65f48c970fb5c1ab793b1c1ada34c11acca2f7534b05c694160aba4d23cb", size = 11617690, upload-time = "2026-02-26T15:49:30.585Z" },
+    { url = "https://files.pythonhosted.org/packages/c9/ac/34c2f291b584311d33ce0f5a02e965a67b3e70aabadd231b274a05a39527/peppylib-0.1.2-cp311-abi3-macosx_11_0_arm64.whl", hash = "sha256:8b7956e84c448159d06d3cf7eff4a6e8ab21ceb4c93b754754bb6c1bf9df39b9", size = 11620075, upload-time = "2026-02-26T16:37:57.654Z" },
+    { url = "https://files.pythonhosted.org/packages/cd/fb/4096c8b8b961e7898e68f5a9395bab75c7a92832086192b5b5cf317544e5/peppylib-0.1.2-cp311-abi3-manylinux_2_39_x86_64.whl", hash = "sha256:2384e6d1b50c48362d2c2e60b339b3dcf9c3d7818a7720231ef14a8bb2227441", size = 12614878, upload-time = "2026-02-26T16:39:43.599Z" },
 ]
 
 [[package]]
